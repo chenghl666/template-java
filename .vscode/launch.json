@@ -3,9 +3,23 @@
     "configurations": [
       {
         "type": "java",
+        "name": "VisitorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.VisitorPattern.VisitorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "MVCPatternDemo",
+        "request": "launch",
+        "mainClass": "org.MVC.MVCPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "Debug (Launch)",
         "request": "launch",
-        "mainClass": "org.example.Main",
+        "mainClass": "org.example.Main"
       }
     ]
   }
