@@ -3,6 +3,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "AbstractFactoryPatternDemo",
+        "request": "launch",
+        "mainClass": "org.abstractFactoryPattern.AbstractFactoryPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "VisitorPatternDemo",
         "request": "launch",
         "mainClass": "org.VisitorPattern.VisitorPatternDemo",
